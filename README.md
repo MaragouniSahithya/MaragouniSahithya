@@ -44,13 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sahithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaragouniSahithya&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaragouniSahithya&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Get In Touch
 
 - 📧 sahithyamaragouni2004@gmail.com
