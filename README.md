@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering @ **CMR Technical Campus** (CGPA: 8.61) — Graduating 2026
+- 🎓 B.Tech Computer Science Engineering @ **CMR Technical Campus** (CGPA: 8.61) — Graduating 2027
 - 💡 Passionate about building scalable full-stack web applications
 - 🧠 Strong foundation in **DSA**, **REST APIs**, and **MVC Architecture**
 - 🔍 Actively seeking Full Stack / MERN Developer opportunities
