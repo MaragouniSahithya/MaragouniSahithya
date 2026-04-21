@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Sahithya 👋
 
-<!--
-**MaragouniSahithya/MaragouniSahithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack MERN Developer | React • Node.js • MongoDB
+💻 JavaScript • React.js • Node.js • Express.js • MongoDB
+🌱 Building real-world projects & seeking opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering @ **CMR Technical Campus** (CGPA: 8.61) — Graduating 2026
+- 💡 Passionate about building scalable full-stack web applications
+- 🧠 Strong foundation in **DSA**, **REST APIs**, and **MVC Architecture**
+- 🔍 Actively seeking Full Stack / MERN Developer opportunities
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahithya-maragouni/) | [GitHub](https://github.com/MaragouniSahithya)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Responsive Web Design
+**Backend:** Node.js, Express.js, REST API Development, MVC Architecture
+**Databases:** MongoDB, PostgreSQL, SQL, CRUD Operations
+**Auth & Security:** JWT Authentication, Session Management
+**Languages:** JavaScript, Java, Python, C
+**Tools:** Git, GitHub, Postman, VS Code
+
+---
+
+## 📌 Featured Projects
+
+- **[SplitEase](https://github.com/MaragouniSahithya/SplitEase)** – Full-stack bill-splitting app built with React.js + Node.js/Express.js + MongoDB. Features real-time expense calculations, group management, and full CRUD operations with a clean responsive UI.
+
+- **[TWO-STAGE-JOB-TITLE-IDENTIFICATION-SYSTEM](https://github.com/MaragouniSahithya/TWO-STAGE-JOB-TITLE-IDENTIFICATION-SYSTEM)** – ML-based system that identifies and classifies job titles in two stages using machine learning techniques.
+
+- **[xtreme-fitness-gym](https://github.com/MaragouniSahithya/xtreme-fitness-gym)** – Responsive gym business website built with HTML, CSS, JavaScript & React.js, featuring service listings, membership plans, and a contact/enquiry form.
+
+---
+
+## 🏅 Certifications
+
+- 📜 **Data Structures and Algorithms** – Smart Interviews (SI)
+- 📜 **CCNA** – Introduction to Networks, Switching, Routing & Enterprise Networking
+
+---
+
+## 📊 GitHub Stats
+
+![Sahithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaragouniSahithya&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaragouniSahithya&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Get In Touch
+
+- 📧 sahithyamaragouni2004@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahithya-maragouni/)
+- 🔗 [GitHub](https://github.com/MaragouniSahithya)
