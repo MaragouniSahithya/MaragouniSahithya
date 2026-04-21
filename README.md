@@ -1,7 +1,9 @@
 # Hi, I'm Sahithya 👋
 
 🚀 Aspiring Full Stack MERN Developer | React • Node.js • MongoDB
+
 💻 JavaScript • React.js • Node.js • Express.js • MongoDB
+
 🌱 Building real-world projects & seeking opportunities
 
 ---
