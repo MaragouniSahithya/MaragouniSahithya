@@ -13,7 +13,7 @@
 - 🧠 Strong foundation in DSA, REST APIs, and MVC Architecture
 - 🤖 Exploring AI-powered features using the Gemini API in real projects
 - 🔍 Actively seeking Full Stack / MERN Developer opportunities
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahithya-maragouni/) | [GitHub](https://github.com/MaragouniSahithya)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahithya-maragouni/)
 
 ---
 
@@ -54,4 +54,3 @@ A machine learning system that identifies and classifies job titles in two stage
 - 📧 [sahithyamaragouni2004@gmail.com](mailto:sahithyamaragouni2004@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahithya-maragouni/)
 - 🌐 [Portfolio](https://my-portfolio-bice-seven-95.vercel.app/)
-- 🔗 [GitHub](https://github.com/MaragouniSahithya)
